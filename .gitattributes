@@ -1,0 +1,17 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Unity binary assets are stored directly in Git for simple ZIP download/clone.
+*.png -text
+*.jpg -text
+*.jpeg -text
+*.psd -text
+*.ttf -text
+*.ttc -text
+*.otf -text
+*.fbx -text
+*.mp3 -text
+*.wav -text
+*.mp4 -text
+*.mov -text
+*.db -text

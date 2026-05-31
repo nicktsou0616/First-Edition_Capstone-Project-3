@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 70c378b34aff570419ea314d5f9187d7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - explosionEffectPrefab: {instanceID: 0}
+  - sprite: {instanceID: 0}
+  - prefab: {fileID: 5269248807367374708, guid: dc1f7e3a03b323f4382003dc43294fc7, type: 3}
+  - soldierPrefab: {fileID: 2557077864915493887, guid: 1234ae2ccd34d0549a4d37116dd3b7db, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

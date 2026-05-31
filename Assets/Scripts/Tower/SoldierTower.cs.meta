@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 996a09f52227bbb4fabdb40f56290cfa
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - soldierPrefab: {fileID: 2557077864915493887, guid: 1234ae2ccd34d0549a4d37116dd3b7db, type: 3}
+  - towerData: {fileID: 11400000, guid: 5b671452e3100044faf05e86e9c347fc, type: 2}
+  - soldierPool: {fileID: 5269168423536824509, guid: dc1f7e3a03b323f4382003dc43294fc7, type: 3}
+  - rallyPoint: {fileID: 5065061516929614653, guid: 5f03ecdcbf581584fbde962568c8ea6e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

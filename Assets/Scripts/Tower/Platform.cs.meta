@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: cd98c4b93319f5e40a497c7a0f46d38a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - soldierTowerData: {fileID: 11400000, guid: 5b671452e3100044faf05e86e9c347fc, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

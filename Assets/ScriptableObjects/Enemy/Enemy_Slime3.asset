@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed8a038efccd1cf4dac95b1f499f1cad, type: 3}
+  m_Name: Enemy_Slime3
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyData
+  lives: 20
+  damage: 2
+  speed: 2
+  def: 2
+  mdef: 2
+  attackInterval: 1.5
+  attackDashTime: 0.1
+  attackReturnTime: 0.2
+  canSplit: 1
+  splitPrefab: {fileID: 5994969756397168965, guid: 77b5f1599dbb01d48a4f062001e1e4c3, type: 3}
+  splitCount: 3
+  maxSplitGeneration: 1
+  resourceReward: 4

@@ -1,0 +1,29 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+Assets/Unity.VisualScripting.Generated/
+Assets/Unity.VisualScripting.Generated.meta
+
+# Visual Studio / Rider
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+
+# Crash / cache
+*.log
+
+# Nested placeholder repository
+First-Edition_Capstone-Project2/
+
+# Local helper tools
+.codex-tools/

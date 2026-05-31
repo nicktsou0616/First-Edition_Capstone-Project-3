@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0cc35c7d958a58548b50bef4f6efd520, type: 3}
+  m_Name: Step5
+  m_EditorClassIdentifier: Assembly-CSharp::TutorialStepData
+  assistantIcon: {fileID: 7819795421736181519, guid: 81e1e8b1252786549a7535e483849864, type: 3}
+  dialogueText: "\u9019\u88E1\u53EF\u4EE5\u958B\u555F\u500D\u901F\uFF0C\u5EFA\u8B70\u5728\u78BA\u8A8D\u5B89\u6392\u597D\u5F8C\u518D\u4F7F\u7528\u3002"
+  targetID: Speed1Button
+  highlightRadius: 80
+  highlightPadding: {x: 12, y: 12}
+  dimColor: {r: 0.08, g: 0.08, b: 0.08, a: 0.78}
+  highlightTintColor: {r: 1, g: 1, b: 1, a: 0.04}
+  highlightBorderColor: {r: 1, g: 1, b: 1, a: 0.16470589}
+  highlightBorderThickness: 4
+  assistantAnchoredPosition: {x: -702, y: -450}
+  dialogueAnchoredPosition: {x: 0, y: 0}
+  placeDialogueRightOfAssistant: 1
+  dialogueOffsetFromAssistant: {x: 24, y: 0}
+  pauseGame: 1

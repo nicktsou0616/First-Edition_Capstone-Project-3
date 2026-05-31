@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0cc35c7d958a58548b50bef4f6efd520, type: 3}
+  m_Name: Step1
+  m_EditorClassIdentifier: Assembly-CSharp::TutorialStepData
+  assistantIcon: {fileID: 7819795421736181519, guid: 81e1e8b1252786549a7535e483849864, type: 3}
+  dialogueText: "\u9019\u908A\u4FBF\u662F\u6230\u5834\u6A21\u64EC\u7684\u4E3B\u8981\u4ECB\u9762\u4E86\uFF0C\u63A5\u4E0B\u4F86\u5E6B\u4F60\u8907\u7FD2\u4E00\u4E0B\u5427\u3002"
+  targetID: 
+  highlightRadius: 0
+  highlightPadding: {x: 12, y: 12}
+  dimColor: {r: 0.08, g: 0.08, b: 0.08, a: 0.78}
+  highlightTintColor: {r: 1, g: 1, b: 1, a: 0.04}
+  highlightBorderColor: {r: 1, g: 1, b: 1, a: 0.16470589}
+  highlightBorderThickness: 4
+  assistantAnchoredPosition: {x: 150, y: 420}
+  dialogueAnchoredPosition: {x: 420, y: 200}
+  placeDialogueRightOfAssistant: 1
+  dialogueOffsetFromAssistant: {x: 24, y: 0}
+  pauseGame: 1

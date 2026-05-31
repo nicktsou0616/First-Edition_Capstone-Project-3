@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70c378b34aff570419ea314d5f9187d7, type: 3}
+  m_Name: SoldierTower_Level1
+  m_EditorClassIdentifier: Assembly-CSharp::SoldierTowerData
+  range: 3
+  shootInterval: 1
+  projectileSpeed: 4
+  projectileDuration: 3
+  projectileSize: 1
+  damage: 1
+  damageType: 0
+  isExplosive: 0
+  explosionRadius: 0
+  explosionEffectPrefab: {fileID: 0}
+  cost: 100
+  sprite: {fileID: -1612818156496286015, guid: 81e1e8b1252786549a7535e483849864, type: 3}
+  prefab: {fileID: 5269248807367374708, guid: dc1f7e3a03b323f4382003dc43294fc7, type: 3}
+  soldierPrefab: {fileID: 2557077864915493887, guid: 1234ae2ccd34d0549a4d37116dd3b7db, type: 3}
+  maxSoldiers: 3
+  spawnInterval: 2
+  soldierMoveSpeed: 3
+  soldierDamage: 2
+  soldierMaxHealth: 5
