@@ -1,0 +1,13 @@
+Left,Right,Speaker,Text
+,,,大家正愉快認識彼此中
+A,,A,"Hi, I am A."
+A,,A,"May I have your name, please?"
+A,B,B,"Hi, I am B."
+A,B,A,"Where are you from?"
+A,B,B,"I come from Taiwam."
+C,B,C,哈囉，我是C。
+C,B,C,阿你吃飽了沒？
+C,D,D,哈囉，我是D。
+C,D,D,我吃飽了
+E,D,E,你好，我叫E。
+E,F,F,你好，我叫F。

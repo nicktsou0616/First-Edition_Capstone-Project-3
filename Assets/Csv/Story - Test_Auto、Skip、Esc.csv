@@ -1,0 +1,33 @@
+Left,Right,Speaker,Audio,AudioMode,AudioWait,AudioTriggerIndex,Visual,VisualMode,VisualWait,VisualTriggerIndex,Text
+CharA,,Alice,,,,,,,,,這是普通的對話，只測試舊功能。
+CharA,,Alice,DoorBang,Before,1.0,,,,,,……剛才，那是隔壁房間傳來的聲音嗎？
+,CharB,Bob,BGM_Tense,Sync,0,,,,,,情況有點不妙啊。
+CharA,,Detective,Gunshot,Inline,2.0,14,,,,,這起案件的幕後黑手，其實就是……你！
+,,,GateOpen,Before,2.0,,,,,,這裡就是傳聞中的地下實驗室嗎……
+CharA,,Alice,,,,,ShowItem,Sync,0,,你看這個。
+CharA,,Detective,,,,,ShowKey,Inline,1.0,15,我從死者的口袋裡，摸出了這個這不是小明的鑰匙嗎？
+CharA,,Alice,,,,,ScreenShake,AfterClick,0.5,,我下定決心，一口氣喝下了那杯毒藥。
+,,Alice,Explosion,Before,2.5,,ScreenFlash,Sync,0,,哇啊啊啊！
+CharA,,Alice,,,,,,,,,你說呢，這句話裡面有逗號，解析一定沒問題。
+,,,,,,,,,,,START_AUTO
+CharA,,Alice,,,,,,,,,現在開始第一段自動播放。
+CharA,,Alice,,,,,,,,,這一句應該會自動進入下一句。
+CharA,,Alice,,,,,,,,,這是自動播放的第三句。
+CharA,,Alice,,,,,,,,,這一句結束後，還會繼續自動播放。
+,,,,,,,,,,,END_AUTO
+CharA,,Alice,,,,,,,,,這一句應該恢復成手動點擊。
+,,,,,,,,,,,START_AUTO
+CharA,,Alice,,,,,,,,,第二段自動播放開始。
+,CharB,Bob,,,,,,,,,Bob 也會自動接著說話。
+CharA,,Alice,,,,,,,,,現在換 Alice 繼續自動說話。
+CharA,,Detective,,,,,,,,,偵探也加入自動播放測試。
+,,,,,,,,,,,END_AUTO
+CharA,,Alice,,,,,,,,,這一句應該再次恢復手動。
+,,,,,,,,,,,START_AUTO
+CharA,,Alice,,,,,,,,,第三段 Auto 測試開始。
+CharA,,Alice,,,,,,,,,這一句測試短台詞。
+CharA,,Alice,,,,,,,,,這一句測試比較長的台詞，看看文字打字速度與自動跳句是否正常運作。
+,CharB,Bob,,,,,,,,,這一句測試不同角色切換時是否仍然可以自動播放。
+CharA,,Alice,,,,,,,,,最後一句測試 Auto 是否能正常結束。
+,,,,,,,,,,,END_AUTO
+CharA,,Alice,,,,,,,,,第三段結束，現在應該等待玩家點擊。

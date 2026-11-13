@@ -7,16 +7,31 @@ EditorBuildSettings:
   m_Scenes:
   - enabled: 1
     path: Assets/Scenes/TitleScene.unity
-    guid: 3140cd065e19969458a5ab7107289b96
+    guid: 8bd1818e443b14f4980bf8bc561dd062
+  - enabled: 1
+    path: Assets/Scenes/Atrium.unity
+    guid: 92f1b71f0e3fce2498293782b5be617a
+  - enabled: 1
+    path: Assets/Scenes/Auditorium.unity
+    guid: 6e9c6cf25cae39c4596b6fc4040ee411
+  - enabled: 1
+    path: Assets/Scenes/Bedroom.unity
+    guid: 379985e6e3da4ce4dbde862b97b75b57
+  - enabled: 1
+    path: Assets/Scenes/Campsite.unity
+    guid: a9c1d3a8a88c00d4cbc4dd1fae4c8de3
+  - enabled: 1
+    path: Assets/Scenes/Corridor.unity
+    guid: 9e9d3df2290eedf42a0d5e4f18974e70
+  - enabled: 1
+    path: Assets/Scenes/Mun.unity
+    guid: 85aea5d730f6e6846ad1875558a8e8fb
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Game.unity
     guid: 5034059a0f00dab489b1528e84fe01e1
-  - enabled: 1
-    path: Assets/Scenes/EndScene.unity
-    guid: 32dc1e8c9f570404ea79d740b7265849
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

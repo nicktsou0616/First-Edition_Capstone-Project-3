@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b4ffa97db79a0a46a4aa3912743ac6f, type: 3}
+  m_Name: Story_Test02_Falltory
+  m_EditorClassIdentifier: Assembly-CSharp::StoryData
+  steps:
+  - stepType: 0
+    dialoguePrefab: {fileID: 475108720088482448, guid: ee22f861fa0c7bb49bdeddf8c8cc7e22, type: 3}
+    choicePrefab: {fileID: 0}
+    choiceQuestion: 
+    choices: []
+    choiceNextStories: []
+    targetFlag: 
+    trueStory: {fileID: 0}
+    falseStory: {fileID: 0}
+    evidenceToGive: {fileID: 0}
+    deductionPrefab: {fileID: 0}
+    successStory: {fileID: 0}
+    failStory: {fileID: 0}
+    sceneToLoad: 

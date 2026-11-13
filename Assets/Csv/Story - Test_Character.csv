@@ -1,0 +1,6 @@
+LeftID,RightID,LeftExpress,RightExpress,Speaker,AudioID,AudioMode,AudioWait,AudioTrigger,VisualID,VisualMode,VisualWait,VisualTrigger,Text
+,A,,Smile,A,,,,,,,,,【正常測試】哈囉！這是A第一次出場，表情是 Smile。
+,A,,Confuse,A,,,,,,,,,【切換表情】A的 ID 沒變，但表情變成了 Confuse！
+B,A,1,Confuse,B,,,,,,,,,【數字索引測試】左邊的B出現了，B的表情是用數字 '1' 指定的。右邊的 A 應該會變暗。
+B,A,,,A,,,,,,,,,【空字串防呆】我們的表情欄位都是空的，應該會自動變回預設表情 （索引1）。
+,,,,,,,,,,,,,此時 LeftID、RightID和Speaker 欄位皆為空，A 和 B 雙方應該都會滑出螢幕，且對話框隱藏，改顯示旁白文字

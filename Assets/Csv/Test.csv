@@ -1,0 +1,11 @@
+Left,Right,Speaker,Audio,AudioMode,AudioWait,AudioTriggerIndex,Visual,VisualMode,VisualWait,VisualTriggerIndex,Text
+CharA,,Alice,,,,,,,,,這是普通的對話，只測試舊功能。
+CharA,,Alice,DoorBang,Before,1.0,,,,,,……剛才，那是隔壁房間傳來的聲音嗎？
+,CharB,Bob,BGM_Tense,Sync,0,,,,,,情況有點不妙啊。
+CharA,,Detective,Gunshot,Inline,2.0,14,,,,,這起案件的幕後黑手，其實就是……你！
+,,,GateOpen,Before,2.0,,,,,,這裡就是傳聞中的地下實驗室嗎……
+CharA,,Alice,,,,,ShowItem,Sync,0,,你看這個。
+CharA,,Detective,,,,,ShowKey,Inline,1.0,15,我從死者的口袋裡，摸出了這個這不是小明的鑰匙嗎？
+CharA,,Alice,,,,,ScreenShake,AfterClick,0.5,,我下定決心，一口氣喝下了那杯毒藥。
+,,Alice,Explosion,Before,2.5,,ScreenFlash,Sync,0,,哇啊啊啊！
+CharA,,Alice,,,,,,,,,你說呢，這句話裡面有逗號，解析一定沒問題。
